@@ -1,13 +1,16 @@
 # Distracted-Driver-Classification
 This project implements a deep learning model for distracted driver detection. It includes data preprocessing, model training, evaluation, and a clean project structure suitable for reproducibility and deployment.  Large trained model files are not stored in the repository due to GitHub’s 100MB limit. A download link is provided instead.
 Distracted Driver Classification
-This project implements a deep learning model for distracted driver detection.
+This project implements a **deep learning model** for distracted driver detection.
 It includes data preprocessing, model training, evaluation, and a clean project structure suitable for reproducibility and deployment.
 
-Large trained model files are not stored in the repository due to GitHub’s 100MB limit.
+Large trained model files are **not stored in the repository** due to GitHub’s 100MB limit.
 A download link is provided instead.
+---
 
-# Project Structure
+## Project Structure
+
+'''bash
 Machine-Learning-5841/
 │── data/                     # Raw and processed datasets
 │── figures/                  # Plots, charts, and visualizations
@@ -17,6 +20,8 @@ Machine-Learning-5841/
 │── src/                      # Source code (app.py,training, preprocessing, utils)
 │── saved_models_on_drive.txt # Link to download large model files                    
 │── README.md                 # How to run the project
+
+
 How to Run This Project
 Follow these steps to set up and run the project on your machine.
 
