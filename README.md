@@ -20,7 +20,8 @@ Machine-Learning-5841/
 ├── src/                      # Source code (training, preprocessing, utilities)
 ├── saved_models_on_drive.txt # External link to download large model files
 └── README.md                 # Project documentation
-🧠 Model Description
+```
+## 🧠 Model Description
 
 This project uses a deep learning-based image classification model, primarily built with Convolutional Neural Networks (CNNs), to distinguish between different driver behaviors. The model is trained on labeled image data and optimized to generalize well to unseen real-world scenarios.
 
