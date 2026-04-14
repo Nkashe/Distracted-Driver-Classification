@@ -35,7 +35,7 @@ Model interpretation and visualization
 
 These components work together to improve classification accuracy and ensure robustness in real-world applications.
 
-🚀 How to Run This Project
+## 🚀 How to Run This Project
 
 Follow these steps to set up and run the project on your machine.
 
@@ -77,14 +77,14 @@ python src/preprocess.py
 
 Adjust based on your actual file names.
 
-✨ Features
+## ✨ Features
 Deep learning model for distracted driver classification
 Clean, modular project structure
 Jupyter notebooks for experimentation
 External model hosting for large files
 Reproducible environment using requirements.txt
 Ready for deployment or further research
-📝 Notes
+## 📝 Notes
 Large model files are not included in the repository
 Use the link in saved_models_on_drive.txt to download them
 Ensure the model is placed in the correct folder before running inference
