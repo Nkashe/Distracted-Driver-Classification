@@ -7,7 +7,7 @@ It includes data preprocessing, model training, evaluation, and a clean project 
 Large trained model files are not stored in the repository due to GitHub’s 100MB limit.
 A download link is provided instead.
 
-Project Structure
+# Project Structure
 Machine-Learning-5841/
 │── data/                     # Raw and processed datasets
 │── figures/                  # Plots, charts, and visualizations
